@@ -53,10 +53,10 @@ The project was created in Tableau using the Excel workbook as its data source:
 
 ### Full dashboard
 
-![HR Analytics Dashboard — full view](images/HR%20Analytics%20Dashboard.png)
+![HR Analytics Dashboard — full view](./HR%20Analytics%20Dashboard.png)
 
 ### Dashboard with department action filter applied
 
 The view below shows the dashboard after selecting Sales in the department chart.
 
-![HR Analytics Dashboard — Sales department selected](images/Action%20Filter%20Applied.png)
+![HR Analytics Dashboard — Sales department selected](./Action%20Filter%20Applied.png)
