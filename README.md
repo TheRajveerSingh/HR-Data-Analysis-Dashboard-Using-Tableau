@@ -46,7 +46,7 @@ The project was created in Tableau using the Excel workbook as its data source:
    - **Average Age**: average employee age
 3. Created worksheets for departmental and education attrition, age-group counts, job satisfaction by role, and gender/age-group comparisons.
 4. Assembled the worksheets into a single dashboard, add the education filter and age-bin control, and configure the department selection to act as a dashboard filter.
-5. Checked the overall and filtered views.
+5. Checked the overall and filtered views, and successfully extracted useful information by analysis.
 
 
 ## Screenshots
